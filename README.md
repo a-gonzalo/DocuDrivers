@@ -31,6 +31,8 @@
   - `Driver Key` → por ejemplo: `MGHL7Driver`
 - Haz clic en **Actualizar y Registrar**. El script pedirá permisos si no se ejecuta como Administrador.
 
+![DocuDrivers UI](image.png)
+
 ### Línea de comandos
 - Ejemplo:
   ```powershell
@@ -54,9 +56,6 @@ Consulta `ATTRIBUTION.md` para más detalles.
 ## 📜 Licencia
 
 Este proyecto se distribuye bajo **GNU Lesser General Public License v3 (LGPL v3)**. Consulta el archivo `LICENSE` en la raíz del repositorio.
-
-> **Recuerda**: actualiza el nombre y la dirección en `LICENSE` si es necesario.
-
 ---
 
 ## Contribuir
